@@ -1,0 +1,8 @@
+streamlit
+ollama
+pypdf
+pandas==2.2.3
+numpy
+scikit-learn
+openpyxl
+python-dotenv
